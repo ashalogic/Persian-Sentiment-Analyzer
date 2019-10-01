@@ -8,7 +8,7 @@
 
 
 # Persian Sentiment Analyzer
-### LSTM sentiment analysis for Persian text
+### LSTM Sentiment analysis for Persian text
 
 <img align="right" width="280" height="217.25" src="/assets/undraw_Posts_rskc.png">
 
@@ -24,11 +24,11 @@ also for people who only want to use model there is release version and some snp
 
 
 ## Tutorial
-### Step by step from dataset to ready to use model
+### step by step guide through Persian sentiment analysis
 
 <img align="left" width="275" height="203.50" src="/assets/undraw_steps_ngvm.png">
 
-if you don't know where to start or maybe want to quickly test this project from start to end then use Tutorial.ipynb or Better open it in : 
+if you don't know where to start or maybe want to quickly test this project from start to end then use this tutorial I prepared just for you! 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashalogic/Persian-Sentiment-Analyzer/blob/master/Tutorial.ipynb)
 
@@ -38,19 +38,25 @@ if you don't know where to start or maybe want to quickly test this project from
 ---
 ---
 
+![Screenshot from Tutorial](/screenshot.jpg)
+
+### how to use it in my product ?
 
 
 
 
 
 ## ToDoList
-- [x] This is a complete item
-- [ ] This is a complete item
-- [ ] This is an incomplete item
+- [x] using Fasttext
+- [x] using LSTM
+- [x] Ready to use Word embedding and Tensorflow for javascript, python, c# 😋
+- [ ] Better Word embedding
+- [ ] Attention based model 😎
+- [ ] Better dataset (this one is horrible 😂)
 
-![Screenshot from Tutorial](/screenshot.jpg)
 
-<h1 align="center">سپاس گذارم</h1>
+
+<h1 align="center">😍 سپاس گذارم</h1>
 
 <p align="center">
 <img align="center" width="577.50" height="504.50" src="/assets/undraw_super_thank_you_obwk.png">
