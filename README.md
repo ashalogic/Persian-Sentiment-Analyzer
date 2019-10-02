@@ -1,11 +1,16 @@
-![GitHub All Releases](https://img.shields.io/github/downloads/ashalogic/Persian-Sentiment-Analyzer/total)
-![GitHub issues](https://img.shields.io/github/issues/ashalogic/Persian-Sentiment-Analyzer)
-![GitHub](https://img.shields.io/github/license/ashalogic/Persian-Sentiment-Analyzer)
-
 <p align="left">
 <img align="center" width="329.25" height="200.50" src="/assets/undraw_feeling_of_joy_ioj2.png">
 </p>
 
+---
+---
+
+
+![GitHub All Releases](https://img.shields.io/github/downloads/ashalogic/Persian-Sentiment-Analyzer/total)
+![GitHub issues](https://img.shields.io/github/issues/ashalogic/Persian-Sentiment-Analyzer)
+![GitHub](https://img.shields.io/github/license/ashalogic/Persian-Sentiment-Analyzer)
+
+---
 
 # Persian Sentiment Analyzer
 ### LSTM Sentiment analysis for Persian text
@@ -44,9 +49,12 @@ if you don't know where to start or maybe want to quickly test this project from
 
 ### how to use it in my product ?
 
-
-
-
+---
+---
+---
+---
+---
+---
 
 ## ToDoList
 - [x] using Fasttext
