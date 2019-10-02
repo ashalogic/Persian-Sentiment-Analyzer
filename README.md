@@ -38,7 +38,9 @@ if you don't know where to start or maybe want to quickly test this project from
 ---
 ---
 
-![Screenshot from Tutorial](/screenshot.jpg)
+![Screenshot from Tutorial](/assets/SharedScreenshot_Happy.jpg)
+![Screenshot from Tutorial](/assets/SharedScreenshot_Sad.jpg)
+<p align="center">Screenshot from Tutorial in Google Colab (Thanks Google).</p>
 
 ### how to use it in my product ?
 
