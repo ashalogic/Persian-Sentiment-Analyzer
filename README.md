@@ -64,5 +64,5 @@ if you don't know where to start or maybe want to quickly test this project from
 <h1 align="center">😍 سپاس گذارم</h1>
 
 <p align="center">
-<img align="center" width="577.50" height="504.50" src="/assets/undraw_super_thank_you_obwk.png">
+<img align="center" width="288.75" height="252.25" src="/assets/undraw_super_thank_you_obwk.png">
 </p>
