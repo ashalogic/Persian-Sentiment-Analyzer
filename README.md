@@ -60,6 +60,9 @@ if you don't know where to start or maybe want to quickly test this project from
 - [ ] Attention based model 😎
 - [ ] Better dataset (this one is horrible 😂)
 
+ you can see the PDF file of this project [here](https://github.com/So-AI-love/Persian-Sentiment-Analyzer/blob/master/Documents/Sentimation%20anaylzing%20NLP%20Language.pdf):
+
+![enter image description here](https://i.stack.imgur.com/NpHh2.jpg)
 
 
 <h1 align="center">سپاس گذارم</h1>
