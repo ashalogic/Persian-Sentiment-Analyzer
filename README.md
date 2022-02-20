@@ -1,6 +1,6 @@
 # ``*under construction (but still usable)``
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashalogic/Persian-Sentiment-Analyzer/blob/master/Tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mehrdadghassabi/Persian-Sentiment-Analyzer/blob/master/Tutorial.ipynb)
 
 # Persian Sentiment Analyzer
 ### LSTM Sentiment analysis for Persian text
