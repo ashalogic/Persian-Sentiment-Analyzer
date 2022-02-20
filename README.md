@@ -14,7 +14,7 @@ also for people who only want to use model there is release version and some snp
 
 if you don't know where to start or maybe want to quickly test this project from start to end then use this tutorial I prepared just for you! 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashalogic/Persian-Sentiment-Analyzer/blob/master/Tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mehrdadghassabi/Persian-Sentiment-Analyzer/blob/master/Tutorial.ipynb)
 
 
 ![Screenshot from Tutorial](/assets/SharedScreenshot_Happy.jpg)
